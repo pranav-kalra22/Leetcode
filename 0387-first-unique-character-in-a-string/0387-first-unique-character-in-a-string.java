@@ -1,3 +1,10 @@
+/*
+Approach ->
+Use Frequency Array
+Count occurances of each character
+Iterate over the charArray, the first character with frequency 1 is our answer
+*/
+
 class Solution 
 {
     public int firstUniqChar(String s) 
